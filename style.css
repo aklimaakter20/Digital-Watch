@@ -8,8 +8,7 @@ body{
 }
 .watch-container{
     max-width: 500px;
-    height: 60vh;
-    /* background-color: #191C33; */
+    height: 50vh;
     background: linear-gradient(to right, #11072C, #251850);
     margin: auto;
     border-radius: 10px;
@@ -20,7 +19,6 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    /* background-color: #191C33; */
     background: linear-gradient(to right, #F5278B, #4190FD);
     padding: 30px 20px;
     max-width: 300px;
